@@ -4,21 +4,21 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning: Advanced Machine Learning and AI techniques.
-- 👯 I’m looking to collaborate on: Open Source Projects related to AI and Data Science.
+- 🌱 I’m currently learning: Tailwind CSS.
+<!--- 👯 I’m looking to collaborate on: Open Source Projects related to AI and Data Science.
 - 🤔 I’m looking for help with: Improving my knowledge in cloud computing.
-- 💬 Ask me about: Python, Machine Learning, Data Analysis, and Web Development.
-- 📫 How to reach me: [Email](mailto:pabodak@example.com)
-- ⚡ Fun fact: I love hiking and exploring the great outdoors!
+- 💬 Ask me about: Python, Machine Learning, Data Analysis, and Web Development.-->
+- 📫 How to reach me: [Email](mailto:paboda02@gmail.com)
+- ⚡ Fun fact: Watching movies and dramas!
 
 ## 🛠️ Technologies & Tools
 
 - Programming Languages: Python, JavaScript, Java, C++
 - Web Development: HTML, CSS, React, Node.js
-- Data Science: Pandas, NumPy, Scikit-Learn, TensorFlow, Keras
+<!--- Data Science: Pandas, NumPy, Scikit-Learn, TensorFlow, Keras
 - Databases: MySQL, PostgreSQL, MongoDB
-- Cloud Services: AWS, Google Cloud, Azure
-- Tools: Git, Docker, Kubernetes, VS Code
+- Cloud Services: AWS, Google Cloud, Azure-->
+- Tools: Git, Docker, VS Code <!--Kubernetes,-->
 
 ## 📈 GitHub Stats
 
