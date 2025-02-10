@@ -13,8 +13,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 
 ## 🛠️ Technologies & Tools
 
-- Programming Languages: Python, JavaScript, Java, C++
-- Web Development: HTML, CSS, React, Node.js
+- Programming Languages: Python, JavaScript, Java, <!-- C++ -->
+- Web Development: HTML, CSS, React, <!--Node.js-->
 <!--- Data Science: Pandas, NumPy, Scikit-Learn, TensorFlow, Keras
 - Databases: MySQL, PostgreSQL, MongoDB
 - Cloud Services: AWS, Google Cloud, Azure-->
